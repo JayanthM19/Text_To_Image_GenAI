@@ -32,3 +32,21 @@ The project will progressively include:
 
 ## Current Progress
 Day 1: Environment setup and repository initialization completed.
+
+## Stable Diffusion Pipeline
+
+The Stable Diffusion pipeline converts a text prompt into an image through several stages:
+
+1. Text tokenization
+2. CLIP text embedding generation
+3. Latent noise initialization
+4. Iterative denoising using UNet
+5. Scheduler-guided diffusion process
+6. VAE decoding to generate final image
+
+### Core Components
+- Tokenizer
+- CLIP Text Encoder
+- UNet
+- Scheduler
+- Variational Autoencoder (VAE)
