@@ -1,0 +1,7 @@
+Prompt: A futuristic cyberpunk city
+
+Tokens:
+['<|startoftext|>', 'a</w>', 'futuristic</w>', 'cyberpunk</w>', 'city</w>', '<|endoftext|>']
+
+Embedding Shape:
+torch.Size([1, 77, 512])
