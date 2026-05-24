@@ -1,0 +1,4 @@
+Detailed prompts generated more realistic images.
+Higher guidance scale improved prompt alignment.
+Negative prompts reduced image artifacts.
+More inference steps improved image quality.

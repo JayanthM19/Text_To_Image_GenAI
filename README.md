@@ -50,3 +50,14 @@ The Stable Diffusion pipeline converts a text prompt into an image through sever
 - UNet
 - Scheduler
 - Variational Autoencoder (VAE)
+
+## Day 3 - Prompt Engineering and Inference Experiments
+
+The project now includes experiments focused on understanding how Stable Diffusion responds to:
+- Prompt wording
+- Negative prompts
+- Guidance scale
+- Inference steps
+- Scheduler selection
+
+These experiments help analyze image quality, semantic alignment, creativity, and generation stability.
