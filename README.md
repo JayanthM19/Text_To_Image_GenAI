@@ -61,3 +61,14 @@ The project now includes experiments focused on understanding how Stable Diffusi
 - Scheduler selection
 
 These experiments help analyze image quality, semantic alignment, creativity, and generation stability.
+
+## Day 4 - Attention Mechanism Analysis
+
+The project now includes experiments and documentation related to attention mechanisms in Stable Diffusion.
+
+Topics explored:
+- Self-attention
+- Cross-attention
+- Prompt-to-image semantic alignment
+- Token interactions
+- Attention-guided image generation

@@ -1,0 +1,7 @@
+Cross-attention helps align descriptive words with correct image regions.
+
+Color attributes were applied correctly to corresponding objects.
+
+Style-related tokens strongly influenced atmosphere and lighting.
+
+Attention mechanisms enable semantic consistency during generation.
