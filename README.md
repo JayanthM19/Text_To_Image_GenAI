@@ -72,3 +72,15 @@ Topics explored:
 - Prompt-to-image semantic alignment
 - Token interactions
 - Attention-guided image generation
+
+## Day 5 - Diffusion Scheduler Analysis
+
+The project now includes experiments focused on diffusion schedulers and denoising behavior.
+
+Topics explored:
+- Diffusion timesteps
+- Scheduler comparisons
+- Euler scheduler
+- DDIM scheduler
+- DPM Solver
+- Quality vs speed tradeoffs

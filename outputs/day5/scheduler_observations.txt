@@ -1,0 +1,7 @@
+Euler scheduler produced more artistic and creative outputs.
+
+DDIM generated smoother and more stable images.
+
+DPM Solver achieved high-quality outputs efficiently.
+
+Higher inference steps improved image detail and refinement.
