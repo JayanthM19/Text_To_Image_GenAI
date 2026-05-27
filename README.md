@@ -84,3 +84,14 @@ Topics explored:
 - DDIM scheduler
 - DPM Solver
 - Quality vs speed tradeoffs
+
+## Day 6 - Dataset Analysis and Visualization
+
+The project now includes dataset exploration and preprocessing experiments using image-caption datasets.
+
+Topics explored:
+- Dataset structure
+- Image visualization
+- Class distribution
+- Caption analysis
+- Data preprocessing

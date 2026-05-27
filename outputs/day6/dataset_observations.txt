@@ -1,0 +1,7 @@
+The Oxford Flowers dataset contains visually diverse flower images.
+
+Image resolutions varied across samples.
+
+Dataset visualization showed balanced semantic diversity.
+
+Preprocessing is important for stable diffusion training consistency.
