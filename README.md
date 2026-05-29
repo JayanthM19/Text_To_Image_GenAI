@@ -95,3 +95,14 @@ Topics explored:
 - Class distribution
 - Caption analysis
 - Data preprocessing
+
+## Day 7 - Dataset Preprocessing Pipeline
+
+The project now includes preprocessing workflows for preparing image-caption datasets for Stable Diffusion training.
+
+Topics explored:
+- Image resizing
+- Normalization
+- Tensor conversion
+- Caption tokenization
+- Training pipeline preparation
