@@ -106,3 +106,15 @@ Topics explored:
 - Tensor conversion
 - Caption tokenization
 - Training pipeline preparation
+
+## Day 8 - Advanced Prompt Engineering
+
+The project now includes advanced prompt engineering experiments for Stable Diffusion.
+
+Topics explored:
+- Style prompting
+- Cinematic prompting
+- Negative prompt optimization
+- Realism vs anime generation
+- Semantic token influence
+- Prompt comparison experiments
