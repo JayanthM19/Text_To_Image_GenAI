@@ -1,0 +1,11 @@
+REALISTIC TEMPLATE:
+[subject], photorealistic, cinematic lighting, ultra detailed, 8k
+
+ANIME TEMPLATE:
+[subject], anime style, Studio Ghibli style, detailed anime art
+
+CINEMATIC TEMPLATE:
+[subject], dramatic lighting, cinematic atmosphere, volumetric lighting
+
+NEGATIVE PROMPT TEMPLATE:
+blurry, distorted, low quality, bad anatomy
