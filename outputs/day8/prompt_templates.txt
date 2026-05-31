@@ -9,3 +9,11 @@ CINEMATIC TEMPLATE:
 
 NEGATIVE PROMPT TEMPLATE:
 blurry, distorted, low quality, bad anatomy
+
+Detailed prompts generated more semantically rich outputs.
+
+Style-related tokens strongly influenced image aesthetics.
+
+Negative prompts improved image quality and reduced distortions.
+
+Anime and realistic prompts produced significantly different visual characteristics.
