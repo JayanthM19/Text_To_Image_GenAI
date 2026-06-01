@@ -1,0 +1,7 @@
+Stable Diffusion operates in compressed latent space instead of pixel space.
+
+VAE encoding significantly reduces image dimensionality.
+
+Latent interpolation produced smooth semantic transitions between concepts.
+
+Latent representations contain compressed semantic image information.
