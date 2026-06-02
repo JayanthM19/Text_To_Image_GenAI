@@ -129,3 +129,17 @@ Topics explored:
 - Latent interpolation
 - Semantic transitions
 - Compressed image representations
+
+
+## Day 10 - Stable Diffusion Pipeline Consolidation
+
+The project now includes a complete end-to-end understanding of the Stable Diffusion generation pipeline.
+
+Topics consolidated:
+- Tokenization
+- CLIP embeddings
+- Attention mechanisms
+- Latent diffusion
+- Scheduler-guided denoising
+- VAE decoding
+- Full image generation workflow
