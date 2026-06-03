@@ -1,0 +1,7 @@
+LoRA enables lightweight fine-tuning without retraining the full model.
+
+Attention layers are primary adaptation targets.
+
+Parameter-efficient training significantly reduces computational cost.
+
+Stable Diffusion fine-tuning workflows rely heavily on modular adapter training.
