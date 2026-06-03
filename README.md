@@ -143,3 +143,14 @@ Topics consolidated:
 - Scheduler-guided denoising
 - VAE decoding
 - Full image generation workflow
+
+## Day 11 - LoRA Fine-Tuning Introduction
+
+The project now includes LoRA fine-tuning theory and parameter-efficient adaptation workflows for Stable Diffusion.
+
+Topics explored:
+- Fine-tuning concepts
+- LoRA architecture
+- Parameter-efficient training
+- Adapter-based learning
+- DreamBooth workflow understanding
