@@ -1,0 +1,16 @@
+# Training Readiness
+
+Dataset:
+Ready
+
+Captions:
+Ready
+
+Preprocessing:
+Ready
+
+LoRA Configuration:
+Ready
+
+Training:
+Pending
