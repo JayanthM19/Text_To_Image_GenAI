@@ -12,5 +12,8 @@ Ready
 LoRA Configuration:
 Ready
 
-Training:
+Training Setup:
+Ready
+
+Training Execution:
 Pending
