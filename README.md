@@ -154,3 +154,14 @@ Topics explored:
 - Parameter-efficient training
 - Adapter-based learning
 - DreamBooth workflow understanding
+
+## Day 13 - LoRA Training Setup
+
+Implemented the training architecture required for LoRA fine-tuning.
+
+Topics explored:
+- Dataset loading
+- Training workflow
+- Hyperparameter configuration
+- LoRA adapter setup
+- Training pipeline design
