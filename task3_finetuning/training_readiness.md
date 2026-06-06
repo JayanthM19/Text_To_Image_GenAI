@@ -15,5 +15,11 @@ Ready
 Training Setup:
 Ready
 
+Checkpoint Management:
+Ready
+
 Training Execution:
+Ready
+
+Actual Fine-Tuning:
 Pending
