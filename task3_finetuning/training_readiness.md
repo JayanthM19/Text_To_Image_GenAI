@@ -21,5 +21,8 @@ Ready
 Training Execution:
 Ready
 
+Inference Workflow:
+Ready
+
 Actual Fine-Tuning:
 Pending
