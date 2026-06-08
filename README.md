@@ -176,3 +176,13 @@ Topics explored:
 - Loss monitoring
 - Model saving
 - Fine-tuned inference workflow
+
+## Day 15 - LoRA Inference Workflow
+
+Implemented the workflow for loading and using LoRA adapters after training.
+
+Topics explored:
+- LoRA inference
+- Adapter loading
+- Base vs fine-tuned comparison
+- Deployment workflow
