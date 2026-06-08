@@ -186,3 +186,13 @@ Topics explored:
 - Adapter loading
 - Base vs fine-tuned comparison
 - Deployment workflow
+
+## Day 16 - LoRA Evaluation and Comparison
+
+Implemented model evaluation workflows for comparing base Stable Diffusion outputs with LoRA-adapted outputs.
+
+Topics explored:
+- Model evaluation
+- Prompt alignment
+- Visual quality assessment
+- Comparison methodology
