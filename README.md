@@ -196,3 +196,14 @@ Topics explored:
 - Prompt alignment
 - Visual quality assessment
 - Comparison methodology
+
+## Day 17 - Attention Visualization
+
+Implemented attention and cross-attention analysis workflows.
+
+Topics explored:
+- Attention mechanisms
+- Cross-attention
+- Token influence
+- Text-image alignment
+- Attention visualization
