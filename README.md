@@ -207,3 +207,14 @@ Topics explored:
 - Token influence
 - Text-image alignment
 - Attention visualization
+
+## Day 18 - Attention Architecture Consolidation
+
+Consolidated attention mechanisms used throughout Stable Diffusion.
+
+Topics covered:
+- Self-attention
+- Cross-attention
+- Token influence
+- Text-image alignment
+- Attention architecture
